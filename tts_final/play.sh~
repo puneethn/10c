@@ -1,2 +1,0 @@
-aplay -c 1 -t wav -q DB/outputa.wav;
-
